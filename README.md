@@ -8,9 +8,7 @@
   <tr>
     <td>
        <p>
-         Welcome to <br>
-         <h3> Maximilian Tyan </h3> <br>
-         official GitHub ! 
+         Welcome to Maximilian Tyan's GitHub ! 
        </p>
     </td>
     <td>
