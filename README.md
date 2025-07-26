@@ -15,9 +15,11 @@
 
 I'm a :fr: French  engineering student at [CPE Lyon](https://www.cpe.fr/) with a major in Electronics and Embedded Systems.
 
-Currently working for [Analog Devices Incs](https://www.analog.com/en/index.html) in Limerick, Ireland :ireland: working in Automotive Networking
+Currently working for [Bertin Technologies](https://www.bertin-technologies.com) in Aix-en-Provence :fr: in Thermal Imaging.
 
-My interests revolve around Low Level 
+Previously worked for [Analog Devices Incs](https://www.analog.com/en/index.html) in Limerick, Ireland :ireland: working in Automotive Networking.
+
+My interests revolve around Low Level, electronics, embedded systems and a variety of other topics.
 
 ---
 
